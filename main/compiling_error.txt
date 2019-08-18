@@ -1,4 +1,0 @@
-/home/gmachado/esp/apps/MultiRate/main/main.c:6:10: fatal error: freertos/FreeRTOS.h: No such file or directory
- #include "freertos/FreeRTOS.h"
-          ^~~~~~~~~~~~~~~~~~~~~
-compilation terminated.

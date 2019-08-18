@@ -1,2 +1,5 @@
-void time_stats(char *, uint64_t);
-void init_timer(int );
+void time_stats(char *);
+void time_stats_sec(char *);
+void init_timer_g1_t1(int );
+void init_timer_g1_t0(int );
+void init_timer_g0_t0(int );
